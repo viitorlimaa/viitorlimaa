@@ -2,7 +2,7 @@ Desenvolvedor Web Full-Stack com foco em Node.js, JavaScript, React.js e TypeScr
 
 Perfil no LinkedInd: [![LinkedIn]](https://www.linkedin.com/in/jorge-vitor-pereira-lima-87147a2ba)
 
-(![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=viitorlimaa&theme=dracula&show_icons=true))
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=viitorlimaa&theme=dracula&show_icons=true))
 
 <!--
 **viitorlimaa/viitorlimaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
