@@ -22,4 +22,4 @@ Construo APIs REST com Node.js e TypeScript, com foco em regras de negócio, val
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/jorge-vitor-lima-87147a2ba/) · limajorgevitor@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jorge-vitor-lima) · limajorgevitor@gmail.com
