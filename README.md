@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vitor Lima
+# Hi, I'm Vitor Lima
 
 - 📫 How to reach me **limajorgevitor@gmail.com**
 
