@@ -2,7 +2,7 @@
 
  Backend Developer  | Node.js • TypeScript • PostgreSQL • Docker
 
-Construo APIs REST com Node.js e TypeScript, com foco em regras de negócio, validação de dados, autenticação, testes automatizados e deploy. Pratico TDD com Jest e busco minha primeira oportunidade em um time de engenharia backend.
+Construo APIs REST com Node.js e TypeScript, com foco em regras de negócio, validação de dados, autenticação, testes automatizados e deploy.
 
 ## 🛠 Stack
 
